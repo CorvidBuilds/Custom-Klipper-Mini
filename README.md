@@ -17,7 +17,7 @@
 # Planned Mods
 - Modified X axis tensioner — [Prusa Printers](https://www.prusaprinters.org/prints/75396-improved-x-end-for-prusa-mini)
   - Toothed Timing Pulley
-- Modified Y axis belt to 9mm
+- Modified Y axis belt to 9mm — See /STLs/9mm Y Axis/
   - Toothed Timing Pulley
 - Y Axis Linear Rails — [Prusa Printers](https://www.prusaprinters.org/prints/62906-prusa-mini-upgrade-hiwin-linear-rails-y-mod-mgn12)
 - Sailfin Direct Drive Extruder
